@@ -1,6 +1,6 @@
 # az203 Dr.Azure DevOps Test
 
-TASK Automation Test 5: FIXES AB#3
+TASK Automation Test 6: FIXED AB#3
 
 # Azure DevOps HOL
 
